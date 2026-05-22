@@ -23,3 +23,4 @@
 - **কম্পিউটাৰ আৰু APK প্লেন:** মোৰ ওচৰত বৰ্তমান কম্পিউটাৰ/লেপটপ নাই। যদি থাকিলহেঁতেন, মই এই পাইথন ক’ডটোক এপিকে (APK) ফাইল বা বিল্ড জাৰ (.jar) ফাইললৈ কনভাৰ্ট কৰি দিলোঁহেঁতেন, যাতে সকলোৱে ডাইৰেক্ট গেমটো ইনষ্টল কৰিয়েই গানৰ সৈতে খেলিব পাৰিলেহেঁতেন!
 - একটা simple ভিডিও ডিসো দেখা 
 - https://github.com/user-attachments/assets/7fc5b2fe-fc75-4315-b266-d8c17c2c2252
+- আমি একজন student আমি শিখি আসি but not support my family but i am interested next and ফাইনাল update soonly 
